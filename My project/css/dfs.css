@@ -1,0 +1,78 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text&display=swap');
+</style>
+
+
+/* Обнуление */
+*{ 
+	box-sizing: border-box;	
+}
+
+*::before,
+*::after{
+	box-sizing: border-box;
+}
+
+@font-face{
+	font-family: 'Futura PT';
+	src:url('') format('woff');
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+body{
+	font-family: '',sans-serif;
+	font-weight: 400;
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    height: 100%;
+    background: #0A0A0A;
+    
+}
+img{
+	max-width: 100%;
+
+}
+/*----------------------body(header)------------------------*/
+
+.ogran{
+max-width: 357px;
+margin: 0px auto;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.text1{
+text-align: center;
+color:#FFFFFF;
+margin-top:387px;
+font-size: 24px;
+font-family: 'Raleway', sans-serif;
+}
+.text2{
+color:#C21818;
+margin-top: 35px;
+margin-bottom: 0px;
+font-size: 20px;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+}
+.text3{
+color:#FFFFFF;
+margin-top: 0px;
+text-align: center;
+font-size: 20px;
+font-family: 'Raleway', sans-serif;
+}
+
+.text4{
+margin-top: 330px;
+margin-bottom: 161px;
+font-size: 18px;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+color:#FFFFFF;
+}
